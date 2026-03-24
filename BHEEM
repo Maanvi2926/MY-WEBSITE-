@@ -1,0 +1,14 @@
+<html>
+<head>
+<title></title>
+</head>
+<frameset rows="20%,80%">
+<frame src="C:\Users\COPA\Desktop\MAANVI\Html\1 heading.html "name="heading "scrolling="yes">
+<frameset cols="20%,80%">
+<frame src="C:\Users\COPA\Desktop\MAANVI\Html\2heading.html"name="listname">
+<frame src="C:\Users\COPA\Desktop\MAANVI\Html\3Heading.html"name="image">
+</frameset>
+
+</frameset>
+
+</html>
